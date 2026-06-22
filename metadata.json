@@ -1,0 +1,6 @@
+{
+  "name": "Listico",
+  "description": "An elite e-commerce reseller utility to strip metadata and shift pixels, bypassing reverse image searches and automated duplicate listing detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
